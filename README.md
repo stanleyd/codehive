@@ -1,2 +1,0 @@
-# codehive
-coding at codehive
