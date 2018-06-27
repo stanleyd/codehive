@@ -1,0 +1,145 @@
+.nav-bar{
+	background-color: skyblue;
+	display: flex;
+	height: 100px;
+	width: 100%;
+}
+nav.nav-bar >div{
+	background-color: green;
+	display: flex;
+	flex-basis: 100px;
+	align-items: center;
+	justify-content: center;
+}
+nav.nav-bar >div.serach-box{
+	background-color: #ffff;
+	margin-right: left;
+}
+.main-content{
+	background-color: skyblue;
+	display: flex;
+	flex-wrap: wrap;
+	height: 600px;
+	width: 100%;
+	margin-top: 30px;
+	align-items: center;
+	justify-content: center;
+	align-items: space-between;
+}
+.home{
+	background-color: green;
+	height: 100px;
+	width: 30%;
+	flex:1 1 1;
+	text-align: center;
+}
+.Work{
+	background-color: pink;
+	height: 100px;
+	width: 30%;
+	text-align: center;
+	margin-left: 5px;
+}
+.on-the-Go{
+	background-color: yellow;
+	height: 100px;
+	width: 30%;
+	text-align: center;
+	margin-left: 5px;
+}
+.connectplus{
+	background-color: white;
+	height: 100px;
+	width: 90%;
+	text-align: center;
+}
+.our-product{
+	background-color: skyblue;
+	display: flex;
+	height: 300px;
+	width: 100%;
+	margin-top: 20px;
+	flex-basis: 200px;
+	align-items: center;
+	justify-content: center;
+}
+.mi-fi-unlimited{
+	background-color: grey;
+	display: flex;
+	flex-direction: column;
+	height: 200px;
+	width: 30%;
+	margin-right: 10px;
+}
+.read-more{
+	background-color: pink;
+	height: 20px;
+	width: 100%;
+}
+.value-added-services{
+	background-color: grey;
+	height: 200px;
+	width: 30%;
+	margin-right: 10px;
+
+}
+.mi-fi-classic-plus{
+	background-color: grey;
+	height: 200px;
+	width: 30%;
+}
+.updates{
+	background-color: skyblue;
+	display: flex;
+	height: 400px;
+	width: 100%;
+	flex-basis: 200px;
+	align-items: center;
+	justify-content: center;
+
+}
+.application{
+	background-color: grey;
+	height: 300px;
+	width: 30%;
+	margin-right: 10px;
+	text-align: center;
+
+}
+.mi-fi-plus-FAQ{
+	background-color: grey;
+	height: 300px;
+	width: 30%;
+	margin-right: 10px;
+	text-align: center;
+
+}
+.gives-back{
+	background-color: grey;
+	height: 300px;
+	width: 30%;
+	text-align: center;
+}
+.references{
+	background-color: skyblue;
+	display: flex;
+	height: 400px;
+	width: 100%;
+	flex-basis: 200px;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+
+}
+.all-night{
+	background-color: grey;
+	height: 350px;
+	width: 45%;
+	margin-right: 10px;
+}
+.more-than{
+	background-color: grey;
+	height: 300px;
+	width: 45%;
+	margin-right: 10px;
+}
